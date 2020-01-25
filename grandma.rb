@@ -23,4 +23,3 @@ elsif phrase ≠ phrae.upcase()
     "HUH?! SPEAK UP, SONNY!"
   end
 end
-  
