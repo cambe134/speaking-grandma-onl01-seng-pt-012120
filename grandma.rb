@@ -21,4 +21,3 @@ def speak_to_grandma(phrase)
     "NO, NOT SING 1938!"
   end
 end
-    
